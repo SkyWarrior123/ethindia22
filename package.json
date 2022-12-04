@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "react-hook-form": "^7.40.0",
+    "react-spinners": "^0.13.7"
+  }
+}
