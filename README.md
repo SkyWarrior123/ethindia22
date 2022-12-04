@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+This project aims to provide a decentralized solution for renting bikes through the use of Polygon blockchain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The Polygon Mumbai testnet contract of the smart contract is
+`
+0x47e519E52E9d308fD0Eb0373662e34e580Df013B
+`
 
-Try running some of the following tasks:
+The verified contract link is 
+`
+https://mumbai.polygonscan.com/address/0x47e519E52E9d308fD0Eb0373662e34e580Df013B#code
+`
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
